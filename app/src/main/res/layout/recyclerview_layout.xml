@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/itemLinearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+
+    android:background="#F81200"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/lvAlbumAname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="8dp"
+        android:text="TextView"
+        android:textColor="#F8FCEBEB" />
+
+    <TextView
+        android:id="@+id/lvAlbumArtist"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:layout_marginBottom="8dp"
+        android:text="TextView"
+        android:textColor="#ECE3E3" />
+
+</LinearLayout>

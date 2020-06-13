@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bilkent Library</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="lotr_a">J.R.R. Tolkien was an English writer, poet, philologist and academic. He was the author of the well-known fantasy book series The Hobbit and The Lord Of The Rings.</string>
+    <string name="lotr">The Lord Of The Rings is an epic fantasy novel written by J.R.R. Tolkien. It tells the story of the magic ring bearer Frodo Baggins, Samwise Gamgee and the Fellowship of the Ring in their quest to destroy the Dark Lord Saurons ring</string>
+    <string name="thg_a">Suzanne Collins is an American writer and author. She is known for The Hunger Games trilogy and The Underland Chronicles. She began her career in 1991 as a writer for childrens television shows</string>
+    <string name="thg">The Hunger Games is a dystopian novel written by Suzanne Collins. It tells the story of the Katniss Everdeen who participates in a Battle Royale game for survival organized in a post-apocalyptic nation.</string>
+    <string name="cap_a">Fyodor Mikhailovich Dostoevsky was a Russian novelist, journalist. Dostoevskys literary works explore human psychology in troubled political, social atmospheres of 19th century Russia.</string>
+    <string name="cap">Crime And Punishment focus on the mental problems and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in St. Petersburg.</string>
+    <string name="asis_a">ir Arthur Ignatius Conan Doyle was a British writer and doctor. He created the character Sherlock Holmes in 1887. Other than Holmes Stories, his works include fantasy, science fiction stories, non-fiction, and historical novels.</string>
+    <string name="asis">A Study in Scarlet is an 1887 detective novel written by Arthur Conan Doyle. It tells the story of Sherlock Holmes and Dr. Watson, who would become the most famous detective duo in popular fiction. It is the first novel where Sherlock Holmes and Dr. Watson first appear.</string>
+    <string name="wap_a">Leo Nikolayevich Tolstoy was a Russian writer who is regarded as one of the greatest authors of all time. He received multiple nominations for the Nobel Prize in Literature every year from 1902 to 1906.</string>
+    <string name="wap">War and Peace is regarded as one of Tolstoys finest literary achievements and remains a classic of world literature. The novel chronicles the French Invasion of Russia and the impact of the Napoleonic era on Tsarist society through the stories of five Russian families.</string>
+</resources>

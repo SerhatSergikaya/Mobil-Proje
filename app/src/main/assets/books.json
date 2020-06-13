@@ -1,0 +1,34 @@
+{ 
+    "albums": [ 
+		{
+			"albumName": "The Lord Of The Rings: The Fellowship of The Ring",
+			"artistName": "J.R.R. Tolkien",
+			"albumType": "Fantasy, Novel",
+			"imgName":"lotr.jpg"
+		},
+		{
+			"albumName": "Crime and Punishment",
+			"artistName": "Fyodor Dostoevsky",
+			"albumType": "Philosophical Novel",
+			"imgName":"cap.jpg"
+		},
+		{
+			"albumName": "A Study In Scarlet",
+			"artistName": "Arthur Conan Doyle",
+			"albumType": "Detective Novel",
+			"imgName":"asis.jpg"
+		},
+		{
+			"albumName": "The Hunger Games",
+			"artistName": "Suzanne Collins",
+			"albumType": " Science Fiction",
+			"imgName":"thg.jpg"
+		},
+		{
+			"albumName": "War and Peace",
+			"artistName": "Leo Tolstoy",
+			"albumType": " Leo Tolstoy",
+			"imgName":"wap.jpg"
+		}
+    ] 
+}
